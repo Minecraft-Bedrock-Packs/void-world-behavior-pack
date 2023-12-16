@@ -1,0 +1,13 @@
+{
+    "format_version": "1.19.0",
+    "minecraft:dimension": {
+        "description": {
+            "identifier": "minecraft:the_end"
+        },
+        "components": {
+            "minecraft:generation": {
+                "generator_type": "void"
+            }
+        }
+    }
+}
