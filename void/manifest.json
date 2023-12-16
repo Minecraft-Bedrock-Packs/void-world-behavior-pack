@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Generates a void world in the overworld, nether and end.",
+    "name": "Void World",
+    "uuid": "6f42a0f9-6c11-4974-9bb5-075b3447d2d9",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      51 
+    ]
+  },
+  "modules": [
+    {
+      "description": "Generates a void world in the overworld, nether and end.",
+      "type": "data",
+      "uuid": "2c9d7c28-b4b1-4719-9983-13324e2aaad2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
